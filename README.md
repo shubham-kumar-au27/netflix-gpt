@@ -30,6 +30,13 @@
 - Update store with trailer video data.
 - Embedded the utube video and make it auto play and mute.
 - tailwind classed to make main container look cool.
+- Build SECONDARY component.
+- Bulid movielist
+- buildmoviecard 
+- tmdb image CDN 
+- Made the browe page amazing with tailwind css.
+- Usepopular movies custom hook
+
 
 
 
