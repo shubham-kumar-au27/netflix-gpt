@@ -13,7 +13,7 @@
 - Create SignUp User Account 
 - implement sign in user API 
 - Created ReduxStore with userSlice
-- Implemented Signout 
+- Implemented Signout ..
 - Update Profile Api call
 - BugFix: 
     1.SignUp user displayName and Profile Pic update
@@ -25,26 +25,20 @@
 - Custom Hook for Now Playing Movies. 
 - Create movie slice
 - Update Store with movies Data..
-- Planning for MainContainer & Secondary Container 
-- fetch data for trailer video. 
-- Update store with trailer video data.
-- Embedded the utube video and make it auto play and mute.
-- tailwind classed to make main container look cool.
-- Build SECONDARY component.
-- Bulid movielist
-- buildmoviecard 
-- tmdb image CDN 
-- Made the browe page amazing with tailwind css.
-- Usepopular movies custom hook
-
-
-
-
-
-
-
-
-
+- Planning for MainContainer & Secondary Container..
+- fetch data for trailer video..
+- Update store with trailer video data..
+- Embedded the utube video and make it auto play and mute..
+- tailwind classed to make main container look cool..
+- Build SECONDARY component..
+- Bulid movielist..
+- buildmoviecard..
+- tmdb image CDN..
+- Made the browe page amazing with tailwind css..
+- Usepopular movies custom hook..
+- GPT Search Page
+- GPT Seearch Bar
+- (Bonus) Multi-Language Feature in our App
 
 
 
