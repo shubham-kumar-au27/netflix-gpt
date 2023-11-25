@@ -69,7 +69,6 @@ const Login = () => {
             .then((userCredential) => {
                 // Signed in 
                 // const user = userCredential.user;
-
                
             })
             .catch((error) => {
@@ -77,19 +76,8 @@ const Login = () => {
                 const errorMessage = error.message;
                 setErrorMessage(errorMessage)
             });
-
         }
-
-        
-
-
-
-
-
-
     }
-
-
     const toggleSignInForm = ()=>{
         setIsSignInForm(!isSignInForm)
 
@@ -136,9 +124,7 @@ const Login = () => {
             <p className='py-4 text-white cursor-pointer' onClick={toggleSignInForm}
             >{isSignInForm? 'New To Netflix ? Sign Up Now': 'Already a User ? Sign In Now'}
             </p>
-
-        </form>
-        
+        </form>        
     </div>
 
   )
